@@ -1,4 +1,4 @@
-### Olá meu nome é Girleni,
+### Olá, meu nome é Girleni,
 ⚙️Sou **Engenheira de Produção**    
 🧗🏽‍♀️ Apaixonada por **escaladas**     
 💻 Atualmente focada em:  
