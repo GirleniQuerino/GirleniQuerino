@@ -6,7 +6,7 @@
 
 🚘 Admiradora de carros antigos
 
-💻 Atualmente focada em:  
+💻 Atualmente focada em desenvolver habilidades técnicas em desenvolvimento de software:
 
   <div display="inline">
     &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />&nbsp;&nbsp; 
