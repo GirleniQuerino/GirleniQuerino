@@ -2,10 +2,7 @@
 ⚙️Sou **Engenheira de Produção**    
 🧗🏽‍♀️ Apaixonada por **escaladas**     
 💻 Atualmente focada em:  
-  <div display = "inline">
-   <img width='50'heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg"width"50" />       
-   <img width='50'heigth='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg"width"50" />    
-   <img width='50'heigth='50'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg"width"50" />
-  </div>  
-                  
-          
+  <div display="inline">
+    &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />&nbsp;&nbsp;
+                
+</div>    
