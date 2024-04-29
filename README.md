@@ -2,7 +2,7 @@
 
 ⚙️Sou **Engenheira de Produção**  
 
-🧗🏽‍♀️ Apaixonada por **escaladas**    
+🧗🏽‍♀️ Apaixonada por **rapel**    
 
 🚘 Admiradora de carros antigos
 
